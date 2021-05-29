@@ -3,4 +3,8 @@ Git is free software.
 git is not s s a ss safe
 xxxxxx
 creat branch
-quick and simple
+<<<<<<< HEAD
+new feature quick and simple
+=======
+
+>>>>>>> feature
