@@ -7,4 +7,4 @@ creat branch
 new feature quick and simple
 =======
 
->>>>>>> feature
+
